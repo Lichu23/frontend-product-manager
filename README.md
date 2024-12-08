@@ -1,4 +1,4 @@
-<h1>Frontend of a product manager project</h1>
+<h1>Frontend of a Product Manager Project</h1>
 <li>Use Typescript, Vite, Tailwindcss, Axios, React Router DOM</li>
 <li>Use url as state with react-router-dom</li> 
 <li>Create reusable components</li> 
