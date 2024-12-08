@@ -1,7 +1,6 @@
 <h1>Frontend of a product manager project</h1>
 <li>Use Typescript, Vite, Tailwindcss, Axios, React Router DOM</li>
 <li>Use url as state with react-router-dom</li> 
-<li>Create database in Render using postgreSQL</li> 
 <li>Create reusable components</li> 
 <li>Create Schema for validations with valibot</li>
 <li>Work with te REST API with axios</li>
